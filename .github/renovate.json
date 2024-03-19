@@ -7,6 +7,9 @@
   "semanticPrefix": "chore(dependency)",
   "separateMajorMinor": false,
   "labels": ["dependencies"],
+  "constraints": {
+    "pnpm": "^8.15.4"
+  },
   "lockFileMaintenance": {
     "enabled": true
   },
