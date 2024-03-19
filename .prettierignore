@@ -1,0 +1,15 @@
+node_modules
+dist
+public
+database
+logs
+.turbo
+.astro
+.vscode
+*.log*
+*.log
+*.lock
+*.sh
+*.svg
+*rc.*
+.*ignore
